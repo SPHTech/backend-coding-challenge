@@ -6,6 +6,14 @@ You are to create a Backend API for a simple blog system.
 
 You are encouraged to display any knowledge of clean architecture and design pattern in the development of your application.
 
+## Score
+
+|Criteria|Score|
+|--------|-----|
+|Clean code / Development|60%|
+|Unit / Integration test|30%|
+|Production ready / Docker|10%|
+
 ## Requirement
 
 1. We value a **clean**, **simple** working solution.
