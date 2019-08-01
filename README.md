@@ -9,9 +9,9 @@ You are encouraged to display any knowledge of clean architecture and design pat
 ## Requirement
 
 1. We value a **clean**, **simple** working solution.
-2. The application must be run in Docker, candidate must provide `docker-compose.yml` and `start.sh` bash script at the root of the project, which should setup all relevant services/applications.
+2. The application can be run in Docker is a bonus, candidate can provide `docker-compose.yml` and `start.sh` bash script at the root of the project, which should setup all relevant services/applications.
 3. We prefer Go, but the solution can also be written in Node.js
-4. Candidates must submit the project as a git repository. Repository must avoid containing the words `sphtech` and `challenge`.
+4. Candidates must submit the project as a git repository(we encourage you to put as many commits as you can). Repository must avoid containing the words `sphtech` and `challenge`.
 5. Having unit/integration tests is a strong bonus.
 6. As we run automated tests on your project, you must comply to the API requirement as stipulated below. You can assume Docker is already installed in the test machine.
 7. The solution must be production ready.
